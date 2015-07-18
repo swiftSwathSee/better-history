@@ -1,0 +1,19 @@
+.location
+	{ display: none; }
+.chrome-bootstrap .highlightable li a, .hour_visits .controls {
+	padding-top: 0!important;
+	padding-bottom: 0!important;
+}
+.hour_visits, .hour_visits .controls
+	{ padding-top: 0!important;}
+.visits {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+dt, dd {
+    display: inline;
+}
+.datetime {
+    float: right;
+}
